@@ -1,6 +1,9 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
+assets/
+protected/runtime/
 themes/classic/views/
+.idea/
+*.iml
+static/upload/
+static/userfiles/
+Thumbs.db
+*.css
